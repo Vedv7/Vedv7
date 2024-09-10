@@ -1,6 +1,14 @@
-## Hi there 👋, I'm Veda Swaroop
+<div style="background-image: url('https://github.com/Vedv7/Vedv7/blob/main/54dd2a6c17f894e233848e18eaa242d9.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
+  <h1>Hi there 👋, I'm Veda Swaroop</h1>
+</div>
 
+<p align="center">
 I’m a versatile **Data Analyst** and **Business Analyst** with expertise in **data-driven strategies**, **business process improvement**, and **data science techniques**. With a strong foundation in **SQL**, **R**, **Tableau**, and **Python**, I enjoy turning complex datasets into actionable insights and optimizing business processes.
+</p>
+
+
+
+
 
 🔭 I’m currently pursuing a Master’s in **Business Analytics** at **The University of Texas at Dallas**.  
 🌱 I’m actively learning and applying **data analytics**, **business strategy**, and **machine learning** for predictive insights.  
