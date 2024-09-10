@@ -1,14 +1,3 @@
-<div style="background-image: url('https://github.com/Vedv7/Vedv7/blob/main/image.png'); background-size: cover; height: 300px; width: 100%; display: flex; justify-content: center; align-items: center; color: white; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">
-  <h1>Hi there 👋, I'm Veda Swaroop</h1>
-</div>
-
-<p align="center">
-I'm a versatile Data Analyst and Business Analyst with expertise in data-driven strategies, business process improvement, and data science techniques.
-</p>
-
-
-
-
 ## Hi there 👋, I'm Veda Swaroop
 
 I’m a versatile **Data Analyst** and **Business Analyst** with expertise in **data-driven strategies**, **business process improvement**, and **data science techniques**. With a strong foundation in **SQL**, **R**, **Tableau**, and **Python**, I enjoy turning complex datasets into actionable insights and optimizing business processes.
