@@ -3,12 +3,8 @@
 </div>
 
 <p align="center">
-I’m a versatile **Data Analyst** and **Business Analyst** with expertise in **data-driven strategies**, **business process improvement**, and **data science techniques**. With a strong foundation in **SQL**, **R**, **Tableau**, and **Python**, I enjoy turning complex datasets into actionable insights and optimizing business processes.
+I’m a versatile <strong>Data Analyst</strong> and <strong>Business Analyst</strong> with expertise in <strong>data-driven strategies</strong>, <strong>business process improvement</strong>, and <strong>data science techniques</strong>. With a strong foundation in <strong>SQL</strong>, <strong>R</strong>, <strong>Tableau</strong>, and <strong>Python</strong>, I enjoy turning complex datasets into actionable insights and optimizing business processes.
 </p>
-
-
-
-
 
 🔭 I’m currently pursuing a Master’s in **Business Analytics** at **The University of Texas at Dallas**.  
 🌱 I’m actively learning and applying **data analytics**, **business strategy**, and **machine learning** for predictive insights.  
@@ -25,3 +21,4 @@ I’m a versatile **Data Analyst** and **Business Analyst** with expertise in **
 - **Data Science Tools**: Scikit-learn, TensorFlow
 
 Check out my [Portfolio](https://datascienceportfol.io/VedaSwaroop) for more insights into my projects!
+
