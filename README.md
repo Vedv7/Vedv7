@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there 👋, I'm Veda Swaroop
+I’m a versatile Data Analyst and Business Analyst with expertise in data-driven strategies, business process improvement, and data science techniques. With a strong foundation in SQL, R, Tableau, and Python, I enjoy turning complex datasets into actionable insights and optimizing business processes.
 
-<!--
-**Vedv7/Vedv7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently pursuing a Master’s in Business Analytics at The University of Texas at Dallas.
+🌱 I’m actively learning and applying data analytics, business strategy, and machine learning for predictive insights.
+👯 I’m looking to collaborate on data analytics, business strategy, and machine learning projects.
+💬 Ask me about Data Visualization, Business Analysis, and Predictive Analytics.
+📫 How to reach me: Email me | LinkedIn
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+Languages: SQL, R, Python
+Data Science: Machine Learning, Logistic Regression, Time Series Analysis
+Data Visualization: Tableau, Power BI, Excel (Advanced Functions, VBA, Pivot Tables)
+Business Analysis: SWOT Analysis, KPI Development, Process Improvement
+Project Management: Agile/Scrum, JIRA, Risk Management
+Data Science Tools: Scikit-learn, TensorFlow
+Check out my Portfolio for more insights into my projects!
