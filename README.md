@@ -14,7 +14,7 @@ I’m a versatile <strong>Data Analyst</strong> and <strong>Business Analyst</st
 
 ## Skills
 - **Languages**: SQL, R, Python  
-- **Data Science**: Machine Learning, Logistic Regression, Time Series Analysis  
+- **Data Science**: A/B Testing, Logistic Regression, Time Series Analysis  
 - **Data Visualization**: Tableau, Power BI, Excel (Advanced Functions, VBA, Pivot Tables)  
 - **Business Analysis**: SWOT Analysis, KPI Development, Process Improvement  
 - **Project Management**: Agile/Scrum, JIRA, Risk Management  
