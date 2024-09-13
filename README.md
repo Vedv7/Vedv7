@@ -13,34 +13,36 @@
 ## Skills
 
 ### Programming Languages:
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="50" height="50"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### Data Science:
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="50" height="50"/>
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-E34F26?style=for-the-badge&logo=testing-library&logoColor=white)
 
 ### Data Visualization:
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Microsoft_Excel_Logo_%282013-2019%29.svg" alt="Excel" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Power_BI_logo.svg" alt="Power BI" width="50" height="50"/>
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Business Analysis:
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/SWOT_Analysis.svg" alt="SWOT" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Pie_chart_icon.svg" alt="KPI" width="50" height="50"/>
+![SWOT](https://img.shields.io/badge/SWOT-00A9E0?style=for-the-badge&logo=chart-bar&logoColor=white)
+![KPI](https://img.shields.io/badge/KPI-0052CC?style=for-the-badge&logo=bar-chart&logoColor=white)
 
 ### Project Management:
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Agile-logo.svg" alt="Agile" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Jira_logo.svg" alt="Jira" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Scrum_process.png" alt="Scrum" width="50" height="50"/>
+![Agile](https://img.shields.io/badge/Agile-0A66C2?style=for-the-badge&logo=agile&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### Tools:
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Jira_logo.svg" alt="JIRA" width="50" height="50"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 Check out my [Portfolio](https://datascienceportfol.io/VedaSwaroop) for more insights into my projects!
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Vedv7&color=blue)
+
 
