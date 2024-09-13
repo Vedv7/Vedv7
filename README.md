@@ -9,7 +9,7 @@
 👯 I’m looking to collaborate on **data analytics**, **business strategy**, and **machine learning** projects.  
 💬 Ask me about **Data Visualization**, **Business Analysis**, and **Predictive Analytics**.  
 📫 How to reach me: <a href="mailto:dasagrandhi.v@gmail.com" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_Icon.png" alt="Email" width="25" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="25" height="25"/>
 </a>
 <a href="https://www.linkedin.com/in/vedaswaroopdasagrandhi/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="25" height="25"/>
@@ -17,6 +17,9 @@
 <a href="https://www.instagram.com/ved_swaroop?igshid=MTYxOHowMHVyeDdjNw%3D%3D&utm_source=qr" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="25" height="25"/>
 </a>
+
+
+
 ## Skills
 
 ### Programming Languages:
