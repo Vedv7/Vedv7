@@ -2,7 +2,7 @@
   <h1>Hi there 👋, I'm Veda Swaroop</h1>
 </div>
 
-<p>I’m a versatile <strong>Data Analyst</strong> and <strong>Business Analyst</strong> with expertise in <strong>data-driven strategies</strong>, <strong>business process improvement</strong>, and <strong>data science techniques</strong>. With a strong foundation in <strong>SQL</strong>, <strong>R</strong>, <strong>Tableau</strong>, and <strong>Python</strong>, I enjoy turning complex datasets into actionable insights and optimizing business processes.</p>
+<p>I’m a versatile <strong>Data Analyst</strong> and <strong>Business Analyst</strong> with expertise in <strong>data-driven strategies</strong>, <strong>business process improvement</strong>, and <strong>data science techniques</strong>. I enjoy turning complex datasets into actionable insights and optimizing business processes.</p>
 
    I’m currently pursuing a Master’s in **Business Analytics** at **The University of Texas at Dallas**.  
    I’m actively learning and applying **data analytics**, **business strategy**, and **machine learning** for predictive insights.  
