@@ -6,19 +6,11 @@ I build production AI systems across agentic workflows, conversational voice age
 
 ### Certifications
 
-<p align="left">
-  <a href="https://www.credly.com/badges/a36eba0c-e788-424e-b5df-af845cbdb2a4/public_url" title="Verify on Credly — AWS Certified Generative AI Developer – Professional">
-    <img height="24" alt="AWS Certified Generative AI Developer – Professional" src="https://img.shields.io/badge/AWS-GenAI_Developer_Pro-14b8a6?style=flat-square&labelColor=0f766e&logo=amazon-aws&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://www.credly.com/badges/2c2a93db-00b2-4df6-a8a4-c0e13350bef2/public_url" title="Verify on Credly — Tableau Desktop Specialist">
-    <img height="24" alt="Tableau Desktop Specialist" src="https://img.shields.io/badge/Tableau-Desktop_Specialist-14b8a6?style=flat-square&labelColor=0d9488&logo=tableau&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://bcert.me/bc/html/show-badge.html?b=awqjgwyt" title="Verify on BadgeCert — Certified Scrum Product Owner (CSPO)">
-    <img height="24" alt="Certified Scrum Product Owner (CSPO)" src="https://img.shields.io/badge/Scrum_Alliance-CSPO-14b8a6?style=flat-square&labelColor=115e59&logo=scrumalliance&logoColor=white">
-  </a>
-</p>
+| Credential | Verify |
+| :-- | :--: |
+| **AWS** — Certified Generative AI Developer – *Professional* | [Credly](https://www.credly.com/badges/a36eba0c-e788-424e-b5df-af845cbdb2a4/public_url) |
+| **Tableau** — Desktop Specialist | [Credly](https://www.credly.com/badges/2c2a93db-00b2-4df6-a8a4-c0e13350bef2/public_url) |
+| **Scrum Alliance** — Certified Scrum Product Owner **(CSPO)** | [BadgeCert](https://bcert.me/bc/html/show-badge.html?b=awqjgwyt) |
 
 ---
 
