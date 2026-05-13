@@ -12,7 +12,7 @@ I build production AI systems across agentic workflows, conversational voice age
 
 **ML & NLP:** Scikit-learn · XGBoost · LightGBM · PyTorch · TensorFlow · Hugging Face · spaCy · Embeddings
 
-**Cloud & DevOps:** Azure · GCP · Docker · Kubernetes · CI/CD
+**Cloud & DevOps:** Azure · GCP · Docker · Kubernetes · CI/CD · AWS
 
 **Core Stack:** Python · SQL · FastAPI · REST APIs · Git
 
