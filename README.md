@@ -1,6 +1,6 @@
 # Hey, I'm Veda Swaroop
 
-**AI Engineer | Agentic AI | Machine Learning | NLP | Conversational AI**
+**AI Engineer | Agentic AI | Machine Learning | NLP | Conversational AI | Data Scientist**
 
 I build production AI systems across agentic workflows, conversational voice agents, and machine learning applications. My work spans multi-agent platforms, retrieval-augmented systems, predictive modeling, and AI solutions built for real business use cases.
 
